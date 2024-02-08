@@ -1,0 +1,58 @@
+header{
+    position: sticky;
+    top: 0;
+    background: white;
+    height: 66px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.left img{
+  width: 50px;
+    height: 50px;
+}
+
+.conatiner{
+    padding: 0 10vw;
+}
+
+nav{
+    font-size: 12px;
+    padding-top: 14px;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
+
+.section1{
+    background: rgb(243, 241, 241);
+    
+}
+
+.search{
+    width: 12vw;
+    padding: 3px 7px;
+    border: 0.5px solid grey;
+    background: #f7f8fd;
+    border-radius: 3px;
+}
+
+.homeImg{
+    width: 80vw;
+    margin: 12px 0;
+    
+}
+
+.homeImg2{
+    text-align: center;
+}
+.HomeImg{
+    text-align: center;
+}
+
+footer{
+    padding: 23px;
+    text-align: centre;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
